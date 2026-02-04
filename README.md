@@ -1,2 +1,2 @@
 # music-wolfius
-music for adventure park resort and walibimc using openaudiomc
+Hello, I am WolfiusGame21 and I am part of the team of WalibiMC (play.walibimc.com) and Adventure Park Resort (play.adventureparkresort.com). Be sure to visit one of our Minecraft servers sometime. Please do not download the music because of copyright claims and such. The only reason we have this is so that the music can continue to work in our parks with the OpenAudioMC plugin. With it, we can put music in our servers. Thanks in advance! I won't add much once we have all the music for the parks, and I will also put it here so that my computer doesn't get full of music. Have a great day!
